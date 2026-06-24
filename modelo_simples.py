@@ -11,10 +11,6 @@ CORREÇÕES v2:
 - Otimização de hiperparâmetros
 - Log-transform no target
 
-Autor: Desenvolvedor Sênior Data Science
-Data: 2025
-================================================================================
-"""
 
 import pandas as pd
 import numpy as np
